@@ -45,7 +45,7 @@ SMS-Spam-Detection/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/nilaypatel2607/SMS-Spam-Detection.git
 
 Step 2: Navigate to the Project Folder
 cd SMS-Spam-Detection
